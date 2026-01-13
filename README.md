@@ -171,7 +171,6 @@ https://github.com/VedantNagmoti/Virtual-Store-Locator/
 18 . Master Computer Vision™ OpenCV3 in Python and Machine Learning - Infosys Springboard
 19 . Python Data Structures and Algorithms - Infosys Springboard
 20 . Time Management - Infosys Springboard
-
 ---
 
 ## 📫 Contact
