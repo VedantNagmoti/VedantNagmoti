@@ -128,8 +128,9 @@ https://github.com/VedantNagmoti/Tree-Count-Prediction-and-Deforestation-Detecti
 **Tech:** HTML Canvas, JavaScript, Graph Algorithms  
 
 - Graph-based indoor navigation using Dijkstra’s algorithm  
-- Interactive route visualization for warehouse layouts  
-
+- Interactive route visualization for warehouse layouts
+🔗 Repository:  
+https://github.com/VedantNagmoti/Virtual-Store-Locator/
 ---
 
 ## 📄 Publications
@@ -150,11 +151,26 @@ https://github.com/VedantNagmoti/Tree-Count-Prediction-and-Deforestation-Detecti
 ---
 
 ## 📜 Certifications
-- Machine Learning with Python — IBM  
-- Natural Language Processing in TensorFlow — DeepLearning.AI  
-- Open-source LLMs with RAG — Udemy  
-- Master Computer Vision (OpenCV) — Infosys Springboard  
-- Meta Web Development Fundamentals — Meta  
+1 . Create Interactive Dashboards with Streamlit and Python - Coursera Project Network 
+2 . Django Web Framework - Meta 
+3 . Generative AI: Prompt Engineering Basics - IBM 
+4 . HTML and CSS in depth - Meta 
+5 . Machine Learning with Python (V2) - IBM Developer Skills Network 
+6 . Machine Learning with Python - IBM 
+7 . Introduction to Databases for Back-End Development - Meta 
+8 . Introduction to Front-End Development - Meta 
+9 . Introduction to JavaScript - Coursera Project Network 
+10 . Coding Interview Preparation - Meta 
+11 . Meta Web Development Fundamentals Specialization
+12 . Natural Language Processing in TensorFlow - DeepLearning.AI 
+13 . Programming in Python - Meta
+14 . Open-source LLMs: Uncensored & secure AI locally with RAG on 01/07/2026 as taught by Arnold Oberleiter on Udemy.
+15 . Email Writing Skills - Infosys Springboard 
+16 . High Impact Presentations - Infosys Springboard 
+17 . Introduction to Data Science - Infosys Springboard
+18 . Master Computer Vision™ OpenCV3 in Python and Machine Learning - Infosys Springboard
+19 . Python Data Structures and Algorithms - Infosys Springboard
+20 . Time Management - Infosys Springboard
 
 ---
 
